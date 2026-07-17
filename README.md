@@ -29,22 +29,17 @@
 
 ## About me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <br>
-      <ul>
-        <li>🤖 AI & ML Enthusiast</li>
-        <li>💻 Python Developer</li>
-        <li>🌱 Learning Deep Learning</li>
-        <li>🛰️ Working on Real-World AI Projects</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFtdHlxamEwbXA0bnc1dWYwdXpsajZobmd5bDIwdXN3aDdob2dkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" height="160" />
-    </td>
-  </tr>
-</table>
+###
+
+<img data-importer="image" align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFtdHlxamEwbXA0bnc1dWYwdXpsajZobmd5bDIwdXN3aDdob2dkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+
+###
+
+- 🤖 AI & ML Enthusiast
+- 💻 Python Developer
+- 🌱 Learning Deep Learning
+- 🛰️ Working on Real-World AI Projects
+
 <br>
 
 ## Skills

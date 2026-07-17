@@ -29,23 +29,30 @@
 
 ## About me
 
-###
-
-<img data-importer="image" align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFtdHlxamEwbXA0bnc1dWYwdXpsajZobmd5bDIwdXN3aDdob2dkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
-
-###
-
-- 🤖 AI & ML Enthusiast
-- 💻 Python Developer
-- 🌱 Learning Deep Learning
-- 🛰️ Working on Real-World AI Projects
-
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <br>
+      <ul>
+        <li>🤖 AI & ML Enthusiast</li>
+        <li>💻 Python Developer</li>
+        <li>🌱 Learning Deep Learning</li>
+        <li>🛰️ Working on Real-World AI Projects</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFtdHlxamEwbXA0bnc1dWYwdXpsajZobmd5bDIwdXN3aDdob2dkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" height="160" />
+    </td>
+  </tr>
+</table>
 <br>
 
 ## Skills
 
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,django,fastapi,js,flutter,flask,mongodb,mysql,numpy,opencv,vscode,r&theme=dark&perline=15" height="50" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,django,fastapi,js,flutter,flask,mongodb,mysql,opencv,vscode,r&theme=dark&perline=15" height="50" alt="skills" />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/numpy/white" height="40" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/white" height="40" alt="pandas logo" />
 </div>

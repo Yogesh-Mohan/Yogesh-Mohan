@@ -29,6 +29,12 @@
 
 ## About me
 
+###
+
+<img data-importer="image" align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFtdHlxamEwbXA0bnc1dWYwdXpsajZobmd5bDIwdXN3aDdob2dkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+
+###
+
 - 🤖 AI & ML Enthusiast
 - 💻 Python Developer
 - 🌱 Learning Deep Learning

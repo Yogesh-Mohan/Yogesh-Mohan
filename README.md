@@ -29,7 +29,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       <h2>💫 About me</h2>
       <ul>
         <li>🤖 AI & ML Enthusiast</li>
@@ -38,7 +38,7 @@
         <li>🛰️ Working on Real-World AI Projects</li>
       </ul>
     </td>
-    <td valign="center" width="50%" align="center">
+    <td valign="center" width="40%" align="right">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFtdHlxamEwbXA0bnc1dWYwdXpsajZobmd5bDIwdXN3aDdob2dkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" height="160" />
     </td>
   </tr>

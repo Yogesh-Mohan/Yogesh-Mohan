@@ -80,7 +80,11 @@
 
 
 <br clear="both">
-<img data-importer="snake" src="https://raw.githubusercontent.com/Yogesh-Mohan/Yogesh-Mohan/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogesh-Mohan/Yogesh-Mohan/snake-output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yogesh-Mohan/Yogesh-Mohan/snake-output/snake.svg">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/Yogesh-Mohan/Yogesh-Mohan/snake-output/snake.svg" alt="Snake animation" />
+</picture>
 
 ###
 
